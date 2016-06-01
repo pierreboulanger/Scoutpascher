@@ -2,6 +2,8 @@
 	Interphase by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+
+	NEEDED FOR I DONT KNOW WHY BUT IF DELETED THE SITE IS BROKEN
 */
 (function($) {
 

@@ -1,0 +1,34 @@
+	/* Icon */
+
+	.icon {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+	}
+
+	.icon:before {
+		-moz-osx-font-smoothing: grayscale;
+		-webkit-font-smoothing: antialiased;
+		font-family: FontAwesome;
+		font-style: normal;
+		font-weight: normal;
+		text-transform: none !important;
+	}
+
+	.icon > .label {
+		display: none;
+	}
+
+	.icon.rounded {
+		border-radius: 100%;
+		border: 1px solid #4dac71;
+		display: inline-block;
+		height: 2em;
+		line-height: 2em;
+		text-align: center;
+		width: 2em;
+	}
+
+	.icon.rounded.big {
+		font-size: 3.5em;
+	}

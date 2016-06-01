@@ -1,0 +1,37 @@
+	/* ONE */
+	
+	.one {
+		background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.1) 86%), url("../../images/background2.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		height: 100vh;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.one-text {
+		flex: 8;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+	}
+
+	.one-text header {
+		width: 500px;
+	}
+
+	.one-text-title {
+		margin-top: 48px;
+	}
+
+	.one-text-content {
+		display: flex;
+		margin: 50px 0;
+	}
+
+	.one-text-content-item {
+		padding: 45px;
+		width: 420px;
+	}
