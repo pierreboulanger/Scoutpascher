@@ -1,7 +1,7 @@
 	/* ONE */
 	
 	.one {
-		background: linear-gradient(180deg, rgba(0,0,0,0.9) 0%, transparent, rgba(0,0,0,0.5) 67%)), url("../../images/background2.jpg");
+		background: linear-gradient(180deg, rgba(0,0,0,0.9) 0%, transparent, rgba(0,0,0,0.5) 67%), url("../../images/background2.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -15,14 +15,18 @@
 		flex: 3;
 	}
 
+	.one-text p {
+		margin-top: 1.7em;
+	}
+
 	@media screen and (max-width: 990px) {
 		.one-text-additional {
 			display: none;
 		}
 	}
 
-	.margin-top-30 {
-		margin-top: 30px;
+	.margin-top-50 {
+		margin-top: 50px;
 	}
 
 	.one-button {
