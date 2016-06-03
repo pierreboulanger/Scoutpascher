@@ -100,3 +100,12 @@
 	#header .container nav {
 		right: 0;
 	}
+
+	/* FOR SMALL SCREEN */
+
+	@media only screen and (max-width:470px){
+       /* screens smaller than 768px */
+       body.landing #header {
+       	display: none;
+       }
+    }
