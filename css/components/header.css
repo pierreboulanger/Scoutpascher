@@ -103,7 +103,7 @@
 
 	/* FOR SMALL SCREEN */
 
-	@media only screen and (max-width:470px){
+	@media only screen and (max-width:610px){
        /* screens smaller than 768px */
        body.landing #header {
        	display: none;
