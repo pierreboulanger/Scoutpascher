@@ -57,6 +57,13 @@
 		clear:left;
 		font:14px Helvetica, Arial, sans-serif;
 		width:100%;
+		position: absolute;
+		top: 50%;
+	}
+
+	.footer-card {
+		position: relative;
+		height: 350px;
 	}
 
 	.info {
