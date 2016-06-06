@@ -152,3 +152,7 @@
 	ul.info {
 		padding: 0;
 	}
+
+	ul.copyright {
+		list-style: none;
+	}
