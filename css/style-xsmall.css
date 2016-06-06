@@ -10,10 +10,6 @@
 		min-width: 320px;
 	}
 
-	body, input, select, textarea {
-		font-size: 12pt;
-	}
-
 /* List */
 
 	ul.actions {
